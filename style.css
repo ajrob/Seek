@@ -8,6 +8,14 @@ header {
 	color: green;
 }
 
+img {
+	width: 75px;
+}
+
+h1 {
+	display: inline;
+}
+
 #searchBox {
 	width: 300px;
 	margin: auto 10px;
